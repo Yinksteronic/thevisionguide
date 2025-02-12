@@ -124,13 +124,13 @@ body {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item .nav-link {
   padding: 10px 15px;
-  color: #8ff7cc;
+  color: #ffffff;
   text-align: center;
   text-transform: uppercase;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  color: #24d278;
+  color: #ffffff;
 }
 
 a,
@@ -215,7 +215,7 @@ a:focus {
 }
 
 .login_btn-container a {
-  color: #24d278;
+  color: #3b20d6;
   text-transform: uppercase;
 }
 
